@@ -1,0 +1,27 @@
+
+# Familia
+<!-- Acción y fase sobre la que actúan -->
+
+
+### Listado
+<!-- Nombrarlos individualmente y enlazarlos a sus páginas individuales -->
+* ejem 1
+* ejem 2
+* ejem 3
+
+### Efectos:
+* 
+* 
+* 
+
+
+### Comentarios 
+<!-- Describir particularidades en forma de lista -->
+* Ocurre 1
+* Ocurre 2
+* Ocurre 3
+
+***
+
+###### Bibliografía
+
